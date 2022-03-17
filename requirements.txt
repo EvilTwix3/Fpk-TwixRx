@@ -1,0 +1,13 @@
+itertools
+colorama
+prettytable
+rich
+selenium
+termcolor
+tqdm
+art
+random
+time
+sys
+os
+getpass
