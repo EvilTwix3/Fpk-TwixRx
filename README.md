@@ -1,9 +1,10 @@
 # Fpk-TwixRx
+Script safe And Work 100%100 without Ban! :) 2022
+
 FaceBook PostsDeleteR
 python3 Fpk-Twix.py
 
 FaceBook posts deleter (YourPosts) use (selenium) Firefox()
-Script safe 100%100 without Ban! :)
 its just encrypted bc it beta i already made Full Tool with alot stuff likes and reports spam and react infoGather everything and it will be in Soon Make sure u follow me :)
 
 The things I will use the most will be "selenium" so make sure it installed and setup with "driver" https://www.google.com/search?client=firefox-b-d&q=how+to+install+selenium+firefox+driver
