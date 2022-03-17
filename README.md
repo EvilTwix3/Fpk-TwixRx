@@ -15,42 +15,42 @@ python3
 
 library used make sure it installed 
 #++++++++++ lib ++++++++++#
-itertools
-colorama
-prettytable
-rich
-selenium
-termcolor
-tqdm
-art
-random
-time
-sys
-os
-getpass
-#++++++++++ lib ++++++++++#
+itertools,
+colorama,
+prettytable,
+rich,
+selenium,
+termcolor,
+tqdm,
+art,
+random,
+time,
+sys,
+os,
+getpass,
+#++++++++++ lib ++++++++++#,
 
-#++++++++++ imports ++++++++++#
-from itertools import count
-from colorama import init, Fore, Back, Style
-from prettytable import PrettyTable
-from rich.markdown import Markdown
-from rich.console import Console
-from selenium import webdriver
-from termcolor import colored
-from rich.table import Table
-from tqdm import tqdm
-from art import *
-import random
-import time
-import sys
-import os
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from colorama import *
-import getpass
+#++++++++++ imports ++++++++++#,
+from itertools import count,
+from colorama import init, Fore, Back, Style,
+from prettytable import PrettyTable,
+from rich.markdown import Markdown,
+from rich.console import Console,
+from selenium import webdriver,
+from termcolor import colored,
+from rich.table import Table,
+from tqdm import tqdm,
+from art import *,
+import random,
+import time,
+import sys,
+import os,
+from selenium import webdriver,
+from selenium.webdriver.common.keys import Keys,
+from selenium.webdriver.support import expected_conditions as EC,
+from selenium.webdriver.common.by import By,
+from selenium.webdriver.support.wait import WebDriverWait,
+from colorama import *,
+import getpass,
 
 #---------- imports ----------#
